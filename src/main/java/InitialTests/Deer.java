@@ -1,3 +1,5 @@
+package InitialTests;
+
 class Deer {
     public Deer() {
         System.out.print("Deer Empty constructor");

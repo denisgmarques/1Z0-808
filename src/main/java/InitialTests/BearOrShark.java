@@ -1,3 +1,5 @@
+package InitialTests;
+
 public class BearOrShark {
     public static void main(String[] args) {
         int luck = 10;

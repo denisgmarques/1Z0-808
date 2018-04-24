@@ -1,4 +1,4 @@
-package AssessmentTest15;
+package InitialTests;
 
 import java.util.ArrayList;
 import java.util.List;

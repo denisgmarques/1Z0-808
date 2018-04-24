@@ -1,4 +1,4 @@
-package AssessmentTest17;
+package InitialTests.AssessmentTest17;
 
 import java.util.function.Predicate;
 

@@ -1,3 +1,5 @@
+package InitialTests;
+
 public class AssessmentTest6 { //MathFunctions {
     public static void addToInt(int x, int amountToAdd) {
         x = x + amountToAdd;

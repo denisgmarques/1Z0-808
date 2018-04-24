@@ -1,3 +1,5 @@
+package InitialTests;
+
 public class AssessmentTest4 { //FeedingSchedule {
     public static void main(String[] args) {
         boolean keepGoing = true;

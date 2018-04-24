@@ -1,3 +1,5 @@
+package InitialTests;
+
 public class Egret {
     private String color;
     public Egret() {

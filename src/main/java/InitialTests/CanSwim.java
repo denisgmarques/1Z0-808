@@ -1,2 +1,2 @@
-package AssessmentTest15;
+package InitialTests;
 public interface CanSwim {}

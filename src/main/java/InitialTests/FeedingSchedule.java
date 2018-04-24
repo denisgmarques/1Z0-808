@@ -1,3 +1,5 @@
+package InitialTests;
+
 public class FeedingSchedule {
     public static void main(String[] args) {
         int x = 5, j = 0;

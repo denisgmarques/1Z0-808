@@ -1,3 +1,5 @@
+package InitialTests;
+
 /**
  * Created by denis on 01/04/2018.
  */

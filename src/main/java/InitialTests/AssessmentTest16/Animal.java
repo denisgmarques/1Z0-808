@@ -1,4 +1,4 @@
-package AssessmentTest16;
+package InitialTests.AssessmentTest16;
 public interface Animal { public default String getName() { return null; } }
 
 /*

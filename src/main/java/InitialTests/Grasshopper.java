@@ -1,3 +1,5 @@
+package InitialTests;
+
 import java.util.*;
 public class Grasshopper {
     public Grasshopper(String n) {
